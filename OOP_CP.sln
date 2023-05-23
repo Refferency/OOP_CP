@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_CP", "OOP_CP\OOP_CP.csproj", "{715021E3-C42B-4577-9054-03EE2AB0AEB3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallBusStation", "InstallBusStation\InstallBusStation.vdproj", "{49CCF552-BAEB-44D3-ABED-393FCF3AD418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715021E3-C42B-4577-9054-03EE2AB0AEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715021E3-C42B-4577-9054-03EE2AB0AEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715021E3-C42B-4577-9054-03EE2AB0AEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715021E3-C42B-4577-9054-03EE2AB0AEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CCF552-BAEB-44D3-ABED-393FCF3AD418}.Debug|Any CPU.ActiveCfg = Debug
+		{49CCF552-BAEB-44D3-ABED-393FCF3AD418}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AE8233-A665-4F9E-AD26-588405298008}
+	EndGlobalSection
+EndGlobal
